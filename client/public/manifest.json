@@ -1,0 +1,9 @@
+{
+  "short_name": "Doc Clone",
+  "name": "Google Doc Cone Web Dev Tutorial",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
